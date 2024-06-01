@@ -1,0 +1,24 @@
+.btn {
+  padding: 3px;
+  margin: 5px;
+  text-decoration: dotted;
+}
+
+.text-area {
+  margin: 5px;
+  box-decoration-break: unset;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  width: 80%;
+  /* Adjust the width as needed */
+  height: 80%;
+  /* Adjust the height as needed */
+  margin: auto;
+  /* Center the card horizontally */
+}
